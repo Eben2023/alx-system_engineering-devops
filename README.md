@@ -1,1 +1,1 @@
-0x02. Shell, I/O Redirections and filters
+A new repository for shells and scripts

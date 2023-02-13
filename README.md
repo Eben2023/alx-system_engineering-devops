@@ -1,2 +1,1 @@
-This is the readme file for the repository
-
+0x02. Shell, I/O Redirections and filters
